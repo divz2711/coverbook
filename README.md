@@ -133,7 +133,7 @@ Write the HTML and CSS Code for designing book cover page and execute then.
         </div>
     </body>
 </html>
-
+```
 ## OUTPUT:
 ![OUTPUT](./out3.png)
 
